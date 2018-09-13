@@ -33,6 +33,10 @@ nav li {
   font-size: 1.5em;
 }
 
+nav a {
+  color :#222;
+}
+
 .hamburger-container {
   display: none;
   width: 30px;
