@@ -74,3 +74,31 @@ nav a {
 .title {
   font-size: 30px;
 }
+
+@media only screen and (max-width: 1000px) {
+
+  .card {
+    width: 300px;
+    margin: 0 auto 40px;
+    float: none;
+  }
+
+  nav {
+    display: none;
+  }
+
+  .hamburger-container {
+    display: block;
+  }
+
+  h1 {
+    font-size: 20px;
+    line-height: 1.6;
+  }
+
+}
+
+
+@media only screen and (max-width: 500px) {
+
+}
